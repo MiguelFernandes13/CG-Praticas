@@ -1,0 +1,3 @@
+C:/Users/Miguel/source/repos/Aula7/out/build/x64-debug/CMakeFiles/Aula7.dir
+C:/Users/Miguel/source/repos/Aula7/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Miguel/source/repos/Aula7/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
