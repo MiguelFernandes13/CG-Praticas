@@ -1,0 +1,3 @@
+C:/Users/Miguel/source/repos/Aula8/out/build/x86-release/CMakeFiles/class8.dir
+C:/Users/Miguel/source/repos/Aula8/out/build/x86-release/CMakeFiles/edit_cache.dir
+C:/Users/Miguel/source/repos/Aula8/out/build/x86-release/CMakeFiles/rebuild_cache.dir
